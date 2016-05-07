@@ -1,0 +1,5 @@
+Graphite Component Framework Manual
+
+Getting Started With a Graphite Project
+
+	To create a new Graphite project, include the graphite library in your src paths. First of all create a GameState class that extends state.
